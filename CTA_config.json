@@ -52,7 +52,8 @@
         }
       },
       "urls": [
-        "https://example.com/business-english/page1",        
+        "https://example.com/business-english/page1",
+        "https://course.thespeedybrains.com/s/pages/test/",
         "https://example.com/business-english/page2"
       ]
     },
@@ -88,8 +89,7 @@
         }
       },
       "urls": [
-        "https://example.com/communication-skills/page1",
-        "https://course.thespeedybrains.com/s/pages/test/",
+        "https://example.com/communication-skills/page1",        
         "https://example.com/communication-skills/page2"
       ]
     }
