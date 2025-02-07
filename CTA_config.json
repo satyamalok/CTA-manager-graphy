@@ -16,7 +16,7 @@
         "weight": "bold"
       },
       "padding": "15px 15px",
-      "alignment": "center"  // New property: can be "left", "center", or "right"
+      "alignment": "center"
     }
   },
   "categories": {
