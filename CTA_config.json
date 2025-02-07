@@ -33,8 +33,7 @@
         }
       },
       "urls": [
-        "https://example.com/spoken-english/page1",
-        "https://course.thespeedybrains.com/s/pages/test",
+        "https://example.com/spoken-english/page1",        
         "https://example.com/spoken-english/page2"
       ]
     },
@@ -53,6 +52,7 @@
       },
       "urls": [
         "https://example.com/business-english/page1",
+        "https://course.thespeedybrains.com/s/pages/test",
         "https://example.com/business-english/page2"
       ]
     },
