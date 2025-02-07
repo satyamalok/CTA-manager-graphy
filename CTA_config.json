@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "defaultCTA": {
+    "anchorText": "Start Free Trial Now",
+    "redirectUrl": "https://default-redirect.com/trial",
+    "style": {
+      "colors": {
+        "gradient": {
+          "from": "#D91855",
+          "to": "#E3371C"
+        }
+      },
+      "text": {
+        "size": "18px",
+        "color": "#ffffff",
+        "weight": "bold"
+      },
+      "padding": "15px 15px"
+    }
+  },
+  "categories": {
+    "spoken-english": {
+      "cta": {
+        "anchorText": "Online Spoken English | Free Trial",
+        "redirectUrl": "https://course.thespeedybrains.com/s/pages/spoken-redirect",
+        "style": {
+          "colors": {
+            "gradient": {
+              "from": "#2E3192",
+              "to": "#1BFFFF"
+            }
+          }
+        }
+      },
+      "urls": [
+        "https://example.com/spoken-english/page1",
+        "https://example.com/spoken-english/page2"
+      ]
+    },
+    "business-english": {
+      "cta": {
+        "anchorText": "Business English Course | Enroll Now",
+        "redirectUrl": "https://course.thespeedybrains.com/s/pages/business-redirect",
+        "style": {
+          "colors": {
+            "gradient": {
+              "from": "#11998e",
+              "to": "#38ef7d"
+            }
+          }
+        }
+      },
+      "urls": [
+        "https://example.com/business-english/page1",
+        "https://example.com/business-english/page2"
+      ]
+    },
+    "interview-prep": {
+      "cta": {
+        "anchorText": "Interview Preparation Course | Start Now",
+        "redirectUrl": "https://course.thespeedybrains.com/s/pages/interview-redirect",
+        "style": {
+          "colors": {
+            "gradient": {
+              "from": "#FF416C",
+              "to": "#FF4B2B"
+            }
+          }
+        }
+      },
+      "urls": [
+        "https://example.com/interview-preparation/page1",
+        "https://example.com/interview-preparation/page2"
+      ]
+    },
+    "communication-skills": {
+      "cta": {
+        "anchorText": "Master Communication Skills | Join Today",
+        "redirectUrl": "https://course.thespeedybrains.com/s/pages/communication-redirect",
+        "style": {
+          "colors": {
+            "gradient": {
+              "from": "#8E2DE2",
+              "to": "#4A00E0"
+            }
+          }
+        }
+      },
+      "urls": [
+        "https://example.com/communication-skills/page1",
+        "https://example.com/communication-skills/page2"
+      ]
+    }
+  }
+}
