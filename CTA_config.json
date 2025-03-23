@@ -18,7 +18,7 @@
       "redirectUrl": "https://course.thespeedybrains.com/s/pages/spoken-redirect",
       "style": {
         "colors": { "gradient": { "from": "#2E3192", "to": "#1BFFFF" } },
-        "text": { "size": "18px", "color": "#ffffff", "weight": "bold" },
+        "text": { "size": "18px", "color": "#000000", "weight": "bold" },
         "padding": "15px 15px",
         "alignment": "center"
       }
