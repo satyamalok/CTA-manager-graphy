@@ -15,21 +15,33 @@
     }
   },
   "groups": {
-    "spoken-english": {
-      "anchorText": "Online Spoken English | Free Trial",
-      "redirectUrl": "https://course.thespeedybrains.com/s/pages/spoken-redirect",
+    "jnvst": {
+      "anchorText": "Navodaya Online Coaching: Free Trial",
+      "redirectUrl": "https://course.thespeedybrains.com/s/pages/nv-redirect",
       "style": {
-        "colors": { "gradient": { "from": "#2E3192", "to": "#1BFFFF" } },
+        "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
         "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
         "padding": "15px 15px",
         "boxShadow": "0px 5px 10px rgba(0, 0, 0, 0.3)",
-        "borderRadius": "12px",
+        "borderRadius": "5px",
         "alignment": "center"
       }
     },
     "sainik": {
       "anchorText": "Sainik Online Coaching: Free Trial",
       "redirectUrl": "https://course.thespeedybrains.com/s/pages/ss-redirect",
+      "style": {
+        "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
+        "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
+        "padding": "15px 15px",
+        "boxShadow": "0px 5px 10px rgba(0, 0, 0, 0.3)",
+        "borderRadius": "5px",
+        "alignment": "center"
+      }
+    },
+    "rms": {
+      "anchorText": "Military School Coaching: Free Trial",
+      "redirectUrl": "https://course.thespeedybrains.com/s/pages/rms-redirect",
       "style": {
         "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
         "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
