@@ -27,6 +27,20 @@
         "alignment": "center"
       }
     },
+    "sainik": {
+      "anchorText": "Sainik Online Coaching: Free Trial",
+      "redirectUrl": "https://course.thespeedybrains.com/s/pages/ss-redirect",
+      "style": {
+      "colors": {
+        "gradient": { "from": "#D91855", "to": "#E3371C" }
+      },
+      "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
+      "padding": "15px 15px",
+      "boxShadow": "0px 4px 6px rgba(0, 0, 0, 0.2)",
+      "borderRadius": "0px",
+      "alignment": "center"
+      }
+    },
     "business-english": {
       "anchorText": "Business English Course | Enroll Now",
       "redirectUrl": "https://course.thespeedybrains.com/s/pages/business-redirect",
