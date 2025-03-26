@@ -16,7 +16,7 @@
   },
   "groups": {
     "jnvst": {
-      "anchorText": "Navodaya Online Coaching: Free Trial",
+      "anchorText": "नवोदय कोचिंग: Free Trial",
       "redirectUrl": "https://course.thespeedybrains.com/s/pages/nv-redirect",
       "style": {
         "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
