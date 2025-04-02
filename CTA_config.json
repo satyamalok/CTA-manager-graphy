@@ -39,6 +39,30 @@
         "alignment": "center"
       }
     },
+    "ncert-class-3-english": {
+      "anchorText": "Sainik Online Coaching: Free Trial",
+      "redirectUrl": "https://course.thespeedybrains.com/s/pages/ss-redirect",
+      "style": {
+        "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
+        "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
+        "padding": "15px 15px",
+        "boxShadow": "0px 5px 10px rgba(0, 0, 0, 0.3)",
+        "borderRadius": "5px",
+        "alignment": "center"
+      }
+    },
+    "ncert-class-4-english": {
+      "anchorText": "Sainik Online Coaching: Free Trial",
+      "redirectUrl": "https://course.thespeedybrains.com/s/pages/ss-redirect",
+      "style": {
+        "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
+        "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
+        "padding": "15px 15px",
+        "boxShadow": "0px 5px 10px rgba(0, 0, 0, 0.3)",
+        "borderRadius": "5px",
+        "alignment": "center"
+      }
+    },
     "rms": {
       "anchorText": "Military School Coaching: Free Trial",
       "redirectUrl": "https://course.thespeedybrains.com/s/pages/rms-redirect",
