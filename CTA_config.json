@@ -2,7 +2,7 @@
   "version": "2.0",
   "defaultCTA": {
     "anchorText": "Start Free Trial Now",
-    "redirectUrl": "https://default-redirect.com/trial",
+    "redirectUrl": "https://course.thespeedybrains.com/s/pages/trial",
     "style": {
       "colors": {
         "gradient": { "from": "#D91855", "to": "#E3371C" }
@@ -40,8 +40,8 @@
       }
     },
     "ncert-class-3-english": {
-      "anchorText": "Sainik Online Coaching: Free Trial",
-      "redirectUrl": "https://course.thespeedybrains.com/s/pages/ss-redirect",
+      "anchorText": "Class 3 LIVE Class: Free Trial",
+      "redirectUrl": "http://course.thespeedybrains.com/s/pages/3-redirect",
       "style": {
         "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
         "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
@@ -52,8 +52,8 @@
       }
     },
     "ncert-class-4-english": {
-      "anchorText": "Sainik Online Coaching: Free Trial",
-      "redirectUrl": "https://course.thespeedybrains.com/s/pages/ss-redirect",
+      "anchorText": "Class 4 LIVE Class: Free Trial",
+      "redirectUrl": "http://course.thespeedybrains.com/s/pages/4-redirect",
       "style": {
         "colors": { "gradient": { "from": "#D91855", "to": "#E3371C" } },
         "text": { "size": "18px", "color": "#ffffff", "weight": "bold", "decoration": "none" },
